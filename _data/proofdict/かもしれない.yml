@@ -1,0 +1,10 @@
+id: 01G3A7NM7Z215F23YA4R753XH0
+description: ''
+expected: かもしれない
+patterns:
+  - かも知れない
+allows: []
+specs:
+  - from: かも知れない
+    to: かもしれない
+tags: []
